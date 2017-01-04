@@ -11,10 +11,3 @@ highlighting).
 The directory of files to convert should be named `in`. The output is written
 to a directory named `out`. Before running this script, customize
 `template.html` as desired.
-
-## TODO
-
-- allow input and output folder to be customized
-- allow additional directories and file patterns to be ignored
-- provide control over which Pygments stylesheet is used (currently it's
-  hardcoded to the `colorful` CSS)
